@@ -1,0 +1,21 @@
+
+.small-margin {
+  margin: 50px;
+  font-style: bold;
+}
+
+.text-center{
+  text-align:center;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+body{
+background-color: e3cad6
+}
+
+h1{
+  font-size: 4em;
+  text-align:center;
+  font-family:Georgia, serif;
+}
